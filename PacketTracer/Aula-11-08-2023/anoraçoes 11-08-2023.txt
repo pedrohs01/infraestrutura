@@ -1,0 +1,11 @@
+Rede Sem-Fio (Wi-fi - Wireless)
+2.4Ghz: 802.11 BGN --> 
+5.0Ghz: 802.11 AC -->
+Segurança ----------> WEP - WPA2
+
+ssid 
+
+ROT Cisco sempre todas as portas de redes vao estar desativadas
+para voce configuirar
+
+tudo que fornece rede e ip Estatico
